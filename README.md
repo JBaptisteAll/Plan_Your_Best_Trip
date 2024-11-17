@@ -223,7 +223,11 @@ fig = px.density_mapbox(
 fig.show()
 ```
 
-![Interactive Weather Map](Plan_Your_Best_Trip\weather_map.png)
+
+Below is the interactive weather map generated for this project:
+
+![Interactive Weather Map](https://raw.githubusercontent.com/JBaptisteAll/Plan_Your_Best_Trip/main/weather_map.png)
+
 
 #### **Features of the Map**:
 - **Color intensity**: Reflects average temperatures for each destination.
